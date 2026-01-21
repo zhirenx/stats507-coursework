@@ -1,7 +1,5 @@
-# stats507-coursework
-repository for the Stats 507 course
-
 # Stats 507 Coursework
+repository for the Stats 507 course
 
 ## Course Description
 Stats 507 is a course on Data Science and Analytics using Python at the University of Michigan. This course covers topics including:
